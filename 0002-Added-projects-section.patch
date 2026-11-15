@@ -1,0 +1,24 @@
+From 18ebb9e1daa9e59d0ad00b0c2064527c2ba78520 Mon Sep 17 00:00:00 2001
+From: Ramkumar <ramkumar.lakshmanan@psiog.com>
+Date: Sun, 15 Nov 2026 20:50:22 +0530
+Subject: [PATCH 2/2] Added projects section
+
+---
+ about.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/about.html b/about.html
+index 36cd864..cc96407 100644
+--- a/about.html
++++ b/about.html
+@@ -7,6 +7,7 @@
+ </head>
+ <body>
+     <h1>About Us</h1>
++    <h2>Our Projects</h2>
+ <p>This is our about page.</p>
+ <p>This is for checking difference</p>
+ </body>
+-- 
+2.56.1.windows.1
+
